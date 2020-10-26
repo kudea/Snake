@@ -12,7 +12,7 @@ del Snake.pdb
 del Snake.exe
 
 setlocal 
-set INCLUDE=C:\Users\samue\Desktop\folder\WINdbgFolder;	REM 這裡要設成WINdbgFolder的路徑
+set INCLUDE=C:\Users\samue\Desktop\folder\WINdbgFolder;	REM WINdbgFolder'S route
 set LIB=C:\Users\samue\Desktop\folder\WINdbgFolder;
 set PATH=C:\Users\samue\Desktop\folder\WINdbgFolder;
 
